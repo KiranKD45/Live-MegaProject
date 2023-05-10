@@ -19,6 +19,6 @@ import config from "./src/config/index.js";
 
     } catch (err) {
         console.error("ERROR: ", err);
-        throw err
+        throw err;
     }
 }) ()
